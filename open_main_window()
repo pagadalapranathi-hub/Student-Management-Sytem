@@ -1,0 +1,11 @@
+def open_main_window():
+
+    global window
+
+    window = tk.Toplevel()
+
+    window.title("Student Management System")
+
+    window.geometry("1100x700")
+
+    window.resizable(False, False)
