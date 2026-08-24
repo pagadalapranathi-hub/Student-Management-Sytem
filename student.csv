@@ -1,0 +1,15 @@
+age,attendance,branch,cgpa,email,gender,grade,join_date,marks,mobile,name,pass_out_year,password,semester,status,student_id,subjects,supplies,year
+21,99,CSE,9.8,pagadalapranathi@gmail.com,Female,,,98,9876543210,Pagadala Pranathi,,123456,7,Active,101,"['Python', 'Java', 'DBMS']",0,4
+22,89,CSE,8.7,rahul@gmail.com,Male,,,88,9876543211,Rahul,,rahul123,8,Active,102,"['Python', 'Java', 'DBMS']",1,4
+21,94,ECE,9.1,pranathi@gmail.com,Female,,,91,9876543212,Pranathi,,678901,6,Active,103,"['Digital Electronics', 'Singnals', 'Python']",0,3
+25,82,EEE,6.1,kiran@gmail.com,Male,,,76,9876543219,Kiran,,kiran123,4,Active,104,"['Electrical Circuits', 'Mathematics', 'Physics']",2,2
+21,97,CSM,9.6,rama@gmail.com,Male,A+,02/12/2023,96,9876543214,Rama,2023,1234567,7,Fail,105,"Machine Learning, Python, Data Science",1,4
+22,86,ECE,8.4,pagadalapranathiroyals@gmail.com,Female,A,04-08-2005,84,9876543215,Pagadala Pranathi Royals,2027,pranathi1234,8,Pass,106,"['Communication Systems', 'VLSI', 'Java']",0,4
+22,96,CSE,9.9,ammuluu@gmail.com,Female,,,99,9876543218,Ammuluu,,98765544,7,Active,108,"['Java', 'Python']",0,4
+21,90,CSM,9.0,arun@gmail.com,Male,,,85,9876543210,Arun,,arun123,6,Pass,109,"['SQL', 'Java']",0,3
+25,70,EEE,8.8,ram@gmail.com,Male,,,88,9876543211,Ram,,12345678,4,Fail,110,"['C', 'C++']",3,2
+26,90,ECE,6.5,priya@gmail.com,Female,,,35,9876543211,Priya,,5678901,6,Fail,111,"['C', 'Java']",0,3
+21,60,CSE,9.0,geetha@gmail.com,Female,,,85,9876543212,Geetha,,12345678,6,Fail,112,"['SQL', 'Python']",0,3
+22,88,IT,9.0,suresh@gmail.com,Male,,,90,9876543213,Suresh,,duresg123,6,Fail,113,"['Java', 'SQL']",2,3
+21,92,IT,9.0,anjali@gmail.com,Female,A,,85,9876543210,Anjali,,anjali123,6,Pass,114,"['Python', 'Java']",0,3
+21,50,CSE,4.5,jalaja@gmail.com,female,E,2023,45,9876543218,jalaja,2027,jalaja,7,Fail,115,Maths,0,4
